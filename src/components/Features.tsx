@@ -2,8 +2,6 @@
 import { CheckCircle, Clock, Sparkles } from "lucide-react";
 import { motion } from "framer-motion";
 
-import { useEffect, useMemo, useState } from "react";
-
 const features = [
   {
     name: "Өндөр нарийвчлал",
