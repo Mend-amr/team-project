@@ -16,7 +16,7 @@ export default function Header() {
   }, [dark]);
 
   return (
-    <header className="absolute inset-x-0 top-0 z-50">
+    <header className="absolute inset-x-0 top-0 z-50 fixed">
       <nav className="flex items-center justify-between p-6 lg:px-8">
         {/* LOGO */}
         <div className="flex lg:flex-1">
